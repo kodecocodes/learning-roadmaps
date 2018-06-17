@@ -3,18 +3,27 @@
 ## Books
 
 B1 [Android Apprentice]()
+
 B2 [Kotlin Apprentice]()
 
 ## Video Courses
 
 C1 [Your First Kotlin Android App]()
+
 C2 [Programming in Kotlin]()
+
 C3 [Your Second Kotlin Android App]()
+
 C4 [Beginning Android Layouts]()
+
 C5 [Beginning RecyclerView]()
+
 C6 [Android Animations]()
+
 C7 [Saving Data on Android]()
+
 C8 [Android Networking]()
+
 C9 [Android Background Processing]()
 
 ## Screencasts
