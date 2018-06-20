@@ -1,8 +1,5 @@
 # raywenderlich.com Android Resources
 
-![](Android_Developer_1.0.png)
-
-
 ## Books
 
 B1 [Android Apprentice](https://store.raywenderlich.com/products/android-apprentice)
