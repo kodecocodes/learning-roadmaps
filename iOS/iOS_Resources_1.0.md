@@ -372,389 +372,376 @@ T20 [How To Make a Gesture-Driven To-Do List App Like Clear in Swift](https://ww
 
 T21 [How To Make a Table View Drop-In Card Animation](https://www.raywenderlich.com/76024/swift-table-view-animations-tutorial-drop-cards)
 
-T22 [](https://www.raywenderlich.com/136159/uicollectionview-tutorial-getting-started)
+T22 [UICollectionView Tutorial: Getting Started](https://www.raywenderlich.com/136159/uicollectionview-tutorial-getting-started)
 
-T23 [](https://www.raywenderlich.com/136161/uicollectionview-tutorial-reusable-views-selection-reordering)
+T23 [UICollectionView Tutorial: Reusable Views, Selection, and Reordering](https://www.raywenderlich.com/136161/uicollectionview-tutorial-reusable-views-selection-reordering)
 
-T24 [](https://www.raywenderlich.com/156794/custom-uicollectionviewlayout-tutorial-parallax)
+T24 [Custom UICollectionViewLayout Tutorial With Parallax](https://www.raywenderlich.com/156794/custom-uicollectionviewlayout-tutorial-parallax)
 
-T25 [](https://www.raywenderlich.com/164608/uicollectionview-custom-layout-tutorial-pinterest-2)
+T25 [UICollectionView Custom Layout Tutorial: Pinterest](https://www.raywenderlich.com/164608/uicollectionview-custom-layout-tutorial-pinterest-2)
 
-T26 [](https://www.raywenderlich.com/94565/how-to-create-an-ios-book-open-animation-part-1)
+T26 [How to Create an iOS Book Open Animation](https://www.raywenderlich.com/94565/how-to-create-an-ios-book-open-animation-part-1)
 
-T27 [](https://www.raywenderlich.com/99087/swift-expanding-cells-ios-collection-views)
+T27 [Swift Expanding Cells in iOS Collection Views](https://www.raywenderlich.com/99087/swift-expanding-cells-ios-collection-views)
 
-T28 [](https://www.raywenderlich.com/107687/uicollectionview-custom-layout-tutorial-spinning-wheel)
+T28 [UICollectionView Custom Layout Tutorial: A Spinning Wheel](https://www.raywenderlich.com/107687/uicollectionview-custom-layout-tutorial-spinning-wheel)
 
-T29 [](https://www.raywenderlich.com/156036/uiappearance-tutorial-getting-started)
+T29 [UIAppearance Tutorial: Getting Started](https://www.raywenderlich.com/156036/uiappearance-tutorial-getting-started)
 
-T30 [](https://www.raywenderlich.com/108766/uiappearance-tutorial)
+T30 [SwiftyBeaver Tutorial for iOS: A Logging Platform for Swift](https://www.raywenderlich.com/153500/swiftybeaver-tutorial-ios-logging-platform-swiftmq)
 
-T31 [](https://www.raywenderlich.com/162745/uigesturerecognizer-tutorial-getting-started)
+T31 [UIGestureRecognizer Tutorial: Getting Started](https://www.raywenderlich.com/162745/uigesturerecognizer-tutorial-getting-started)
 
-T32 [](https://www.raywenderlich.com/78568/create-slide-out-navigation-panel-swift)
+T32 [How to Create Your Own Slide-Out Navigation Panel in Swift](https://www.raywenderlich.com/78568/create-slide-out-navigation-panel-swift)
 
-T33 [](https://www.raywenderlich.com/104744/uigesturerecognizer-tutorial-creating-custom-recognizers)
+T33 [UIGestureRecognizer Tutorial: Creating Custom Recognizers](https://www.raywenderlich.com/104744/uigesturerecognizer-tutorial-creating-custom-recognizers)
 
-T34 [](https://www.raywenderlich.com/77974/making-a-gesture-driven-to-do-list-app-like-clear-in-swift-part-1)
+T34 [How To Make a Gesture-Driven To-Do List App Like Clear in Swift](https://www.raywenderlich.com/77974/making-a-gesture-driven-to-do-list-app-like-clear-in-swift-part-1)
 
-T35 [](https://www.raywenderlich.com/160646/uistackview-tutorial-introducing-stack-views-2)
+T35 [UIStackView Tutorial: Introducing Stack Views](https://www.raywenderlich.com/160646/uistackview-tutorial-introducing-stack-views-2)
 
-T36 [](https://www.raywenderlich.com/77092/text-kit-tutorial-swift)
+T36 [Text Kit Tutorial: Getting Started](https://www.raywenderlich.com/77092/text-kit-tutorial-swift)
 
-T37 [](https://www.raywenderlich.com/153591/core-text-tutorial-ios-making-magazine-app)
+T37 [Core Text Tutorial for iOS: Making a Magazine App](https://www.raywenderlich.com/153591/core-text-tutorial-ios-making-magazine-app)
 
-T38 [](https://www.raywenderlich.com/180356/ios-internationalization)
+T38 [Internationalizing Your iOS App: Getting Started](https://www.raywenderlich.com/180356/ios-internationalization)
 
-T39 [](https://www.raywenderlich.com/163445/tesseract-ocr-tutorial-ios)
+T39 [Tesseract OCR Tutorial for iOS](https://www.raywenderlich.com/163445/tesseract-ocr-tutorial-ios)
 
-T40 [](https://www.raywenderlich.com/162311/adaptive-layout-tutorial-ios-11-getting-started)
+T40 [Adaptive Layout Tutorial in iOS 11: Getting Started](https://www.raywenderlich.com/162311/adaptive-layout-tutorial-ios-11-getting-started)
 
-T41 [](https://www.raywenderlich.com/107310/asyncdisplaykit-tutorial-node-hierarchies)
+T41 [AsyncDisplayKit Tutorial: Node Hierarchies](https://www.raywenderlich.com/107310/asyncdisplaykit-tutorial-node-hierarchies)
 
-T42 [](https://www.raywenderlich.com/124311/asyncdisplaykit-2-0-tutorial-getting-started)
+T42 [AsyncDisplayKit 2.0 Tutorial: Getting Started](https://www.raywenderlich.com/124311/asyncdisplaykit-2-0-tutorial-getting-started)
 
-T43 [](https://www.raywenderlich.com/124696/asyncdisplaykit-2-0-tutorial-automatic-layout)
+T43 [AsyncDisplayKit 2.0 Tutorial: Automatic Layout](https://www.raywenderlich.com/124696/asyncdisplaykit-2-0-tutorial-automatic-layout)
 
-T44 [](https://www.raywenderlich.com/80970/facebook-tweaks-swift-tutorial)
+T44 [Facebook Tweaks with Swift Tutorial](https://www.raywenderlich.com/80970/facebook-tweaks-swift-tutorial)
 
-T45 [](https://www.raywenderlich.com/147162/iglistkit-tutorial-better-uicollectionviews)
+T45 [IGListKit Tutorial: Better UICollectionViews](https://www.raywenderlich.com/147162/iglistkit-tutorial-better-uicollectionviews)
 
-T46 [](https://www.raywenderlich.com/179287/using-chameleon-framework-ios)
+T46 [Chameleon on iOS: Getting Started](https://www.raywenderlich.com/179287/using-chameleon-framework-ios)
 
-T47 [](https://www.raywenderlich.com/117471/state-restoration-tutorial)
+T47 [State Restoration Tutorial: Getting Started](https://www.raywenderlich.com/117471/state-restoration-tutorial)
 
-T48 [](https://www.raywenderlich.com/173928/develop-design-iphone-x)
+T48 [Development Tutorial for iPhone X](https://www.raywenderlich.com/173928/develop-design-iphone-x)
 
-T49 [](https://www.raywenderlich.com/178486/uivisualeffectview-tutorial-getting-started)
+T49 [UIVisualEffectView Tutorial: Getting Started](https://www.raywenderlich.com/178486/uivisualeffectview-tutorial-getting-started)
 
-T50 [](https://www.raywenderlich.com/156849/eureka-tutorial-start-building-easy-ios-forms)
+T50 [Eureka Tutorial – Start Building Easy iOS Forms](https://www.raywenderlich.com/156849/eureka-tutorial-start-building-easy-ios-forms)
 
-T51 [](https://www.raywenderlich.com/76433/how-to-make-a-custom-control-swift)
+T51 [How To Make a Custom Control Tutorial: A Reusable Slider](https://www.raywenderlich.com/76433/how-to-make-a-custom-control-swift)
 
-T52 [](https://www.raywenderlich.com/82058/custom-control-tutorial-ios-swift-reusable-knob)
+T52 [How To Make a Custom Control Tutorial: A Reusable Knob](https://www.raywenderlich.com/82058/custom-control-tutorial-ios-swift-reusable-knob)
 
-T53 [](https://www.raywenderlich.com/77981/make-letter-word-game-uikit-swift-part-1)
+T53 [How To Make a Letter / Word Game with UIKit and Swift](https://www.raywenderlich.com/77981/make-letter-word-game-uikit-swift-part-1)
 
-T54 [](https://www.raywenderlich.com/113686/ios-animation-tutorial-introduction-easy-animation)
+T54 [iOS Animation Tutorial: Introduction to Easy Animation](https://www.raywenderlich.com/113686/ios-animation-tutorial-introduction-easy-animation)
 
-T55 [](https://www.raywenderlich.com/173544/ios-animation-tutorial-getting-started-3)
+T55 [iOS Animation Tutorial: Getting Started](https://www.raywenderlich.com/173544/ios-animation-tutorial-getting-started-3)
 
-T56 [](https://www.raywenderlich.com/162315/core-graphics-tutorial-part-1-getting-started)
+T56 [Core Graphics Tutorial Part 1: Getting Started](https://www.raywenderlich.com/162315/core-graphics-tutorial-part-1-getting-started)
 
-T57 [](https://www.raywenderlich.com/169004/calayer-tutorial-ios-getting-started)
+T57 [CALayer Tutorial for iOS: Getting Started](https://www.raywenderlich.com/169004/calayer-tutorial-ios-getting-started)
 
-T58 [](https://www.raywenderlich.com/166359/implement-circular-image-loader-animation-cashapelayer-2)
+T58 [How To Implement A Circular Image Loader Animation with CAShapeLayer](https://www.raywenderlich.com/166359/implement-circular-image-loader-animation-cashapelayer-2)
 
-T59 [](https://www.raywenderlich.com/170144/custom-uiviewcontroller-transitions-getting-started)
+T59 [Custom UIViewController Transitions: Getting Started](https://www.raywenderlich.com/170144/custom-uiviewcontroller-transitions-getting-started)
 
-T60 [](https://www.raywenderlich.com/167198/make-uiviewcontroller-transition-animation-like-ping-app)
+T60 [How To Make A UIViewController Transition Animation Like in the Ping App](https://www.raywenderlich.com/167198/make-uiviewcontroller-transition-animation-like-ping-app)
 
-T61 [](https://www.raywenderlich.com/173576/ios-animation-tutorial-custom-view-controller-presentation-transitions-3)
+T61 [iOS Animation Tutorial: Custom View Controller Presentation Transitions](https://www.raywenderlich.com/173576/ios-animation-tutorial-custom-view-controller-presentation-transitions-3)
 
-T62 [](https://www.raywenderlich.com/76147/uikit-dynamics-tutorial-swift)
+T62 [UIKit Dynamics Tutorial: Getting Started](https://www.raywenderlich.com/76147/uikit-dynamics-tutorial-swift)
 
-T63 [](https://www.raywenderlich.com/94719/uikit-dynamics-swift-tutorial-tossing-views)
+T63 [UIKit Dynamics and Swift Tutorial: Tossing Views](https://www.raywenderlich.com/94719/uikit-dynamics-swift-tutorial-tossing-views)
 
-T64 [](https://www.raywenderlich.com/78568/create-slide-out-navigation-panel-swift)
+T64 [How to Create Your Own Slide-Out Navigation Panel in Swift](https://www.raywenderlich.com/78568/create-slide-out-navigation-panel-swift)
 
-T65 [](https://www.raywenderlich.com/87268/3d-effect-taasky-swift)
+T65 [How To Create a Cool 3D Sidebar Animation Like in Taasky](https://www.raywenderlich.com/87268/3d-effect-taasky-swift)
 
-T66 [](https://www.raywenderlich.com/94565/how-to-create-an-ios-book-open-animation-part-1)
+T66 [How to Create an iOS Book Open Animation](https://www.raywenderlich.com/94565/how-to-create-an-ios-book-open-animation-part-1)
 
-T67 [](https://www.raywenderlich.com/100939/how-to-create-an-elastic-animation-with-swift)
+T67 [How To Create an Elastic Animation with Swift](https://www.raywenderlich.com/100939/how-to-create-an-elastic-animation-with-swift)
 
-T68 [](https://www.raywenderlich.com/102590/how-to-create-a-complex-loading-animation-in-swift)
+T68 [How to Create a Complex Loading Animation in Swift](https://www.raywenderlich.com/102590/how-to-create-a-complex-loading-animation-in-swift)
 
-T69 [](https://www.raywenderlich.com/133224/how-to-create-an-uber-splash-screen)
+T69 [How To Create an Uber Splash Screen](https://www.raywenderlich.com/133224/how-to-create-an-uber-splash-screen)
 
-T70 [](https://www.raywenderlich.com/178798/recreating-the-apple-music-now-playing-transition)
+T70 [Recreating the Apple Music Now Playing Transition](https://www.raywenderlich.com/178798/recreating-the-apple-music-now-playing-transition)
 
-T71 [](https://www.raywenderlich.com/131985/core-plot-tutorial-getting-started)
+T71 [Core Plot Tutorial: Getting Started](https://www.raywenderlich.com/131985/core-plot-tutorial-getting-started)
 
-T72 [](https://www.raywenderlich.com/92972/paintcode-tutorial-for-developers-getting-started)
+T72 [PaintCode Tutorial for Developers: Getting Started](https://www.raywenderlich.com/92972/paintcode-tutorial-for-developers-getting-started)
 
-T73 [](https://www.raywenderlich.com/97941/paintcode-swift-tutorial-part-2-custom-progress-bar)
+T73 [PaintCode Tutorial for Developers: Custom Progress Bar](https://www.raywenderlich.com/97941/paintcode-swift-tutorial-part-2-custom-progress-bar)
 
-T74 [](https://www.raywenderlich.com/100281/paintcode-for-designers-getting-started)
+T74 [PaintCode Tutorial for Designers: Getting Started](https://www.raywenderlich.com/100281/paintcode-for-designers-getting-started)
 
-T75 [](https://www.raywenderlich.com/130942/paintcode-sketch-plugin-tutorial)
+T75 [PaintCode Sketch Plugin Tutorial](https://www.raywenderlich.com/130942/paintcode-sketch-plugin-tutorial)
 
-T76 [](https://www.raywenderlich.com/93138/using-facebook-shimmer-swift)
+T76 [Facebook Shimmer Tutorial](https://www.raywenderlich.com/93138/using-facebook-shimmer-swift)
 
-T77 [](https://www.raywenderlich.com/168312/image-depth-maps-tutorial-ios-getting-started)
+T77 [Image Depth Maps Tutorial for iOS: Getting Started](https://www.raywenderlich.com/168312/image-depth-maps-tutorial-ios-getting-started)
 
-T78 [](https://www.raywenderlich.com/118361/what-is-nuke)
+T78 [What is… Nuke?](https://www.raywenderlich.com/118361/what-is-nuke)
 
-T79 [](https://www.raywenderlich.com/76285/beginning-core-image-swift)
+T79 [Core Image Tutorial: Getting Started](https://www.raywenderlich.com/76285/beginning-core-image-swift)
 
-T80 [](https://www.raywenderlich.com/185885/video-depth-maps-tutorial-for-ios-getting-started)
+T80 [Video Depth Maps Tutorial for iOS: Getting Started](https://www.raywenderlich.com/185885/video-depth-maps-tutorial-for-ios-getting-started)
 
-T81 [](https://www.raywenderlich.com/188034/how-to-play-record-and-merge-videos-in-ios-and-swift)
+T81 [How to Play, Record, and Merge Videos in iOS and Swift](https://www.raywenderlich.com/188034/how-to-play-record-and-merge-videos-in-ios-and-swift)
 
-T82 [](https://www.raywenderlich.com/185090/avaudioengine-tutorial-for-ios-getting-started)
+T82 [AVAudioEngine Tutorial for iOS: Getting Started](https://www.raywenderlich.com/185090/avaudioengine-tutorial-for-ios-getting-started)
 
-T83 [](https://www.raywenderlich.com/145770/audiokit-tutorial-getting-started)
+T83 [AudioKit Tutorial: Getting Started](https://www.raywenderlich.com/145770/audiokit-tutorial-getting-started)
 
-T84 [](https://www.raywenderlich.com/95014/geofencing-ios-swift)
+T84 [Geofencing Tutorial with Core Location](https://www.raywenderlich.com/95014/geofencing-ios-swift)
 
-T85 [](https://www.raywenderlich.com/110054/routing-mapkit-core-location)
+T85 [Routing with MapKit and Core Location](https://www.raywenderlich.com/110054/routing-mapkit-core-location)
 
-T86 [](https://www.raywenderlich.com/136165/core-location-geofencing-tutorial)
+T86 [Geofencing Tutorial with Core Location](https://www.raywenderlich.com/136165/core-location-geofencing-tutorial)
 
-T87 [](https://www.raywenderlich.com/146436/augmented-reality-ios-tutorial-location-based-2)
+T87 [Augmented Reality iOS Tutorial: Location Based](https://www.raywenderlich.com/146436/augmented-reality-ios-tutorial-location-based-2)
 
-T88 [](https://www.raywenderlich.com/151817/how-to-make-an-app-like-pokemon-go)
+T88 [How To Make An App Like Pokemon Go](https://www.raywenderlich.com/151817/how-to-make-an-app-like-pokemon-go)
 
-T89 [](https://www.raywenderlich.com/155772/make-app-like-runkeeper-part-1-2)
+T89 [How To Make an App Like Runkeeper](https://www.raywenderlich.com/155772/make-app-like-runkeeper-part-1-2)
 
-T90 [](https://www.raywenderlich.com/110054/routing-mapkit-core-location)
+T90 [Routing with MapKit and Core Location](https://www.raywenderlich.com/110054/routing-mapkit-core-location)
 
-T91 [](https://www.raywenderlich.com/158175/advanced-mapkit-tutorial-custom-tiles)
+T91 [Advanced MapKit Tutorial: Custom Tiles](https://www.raywenderlich.com/158175/advanced-mapkit-tutorial-custom-tiles)
 
-T92 [](https://www.raywenderlich.com/160517/mapkit-tutorial-getting-started)
+T92 [MapKit Tutorial: Getting Started](https://www.raywenderlich.com/160517/mapkit-tutorial-getting-started)
 
-T93 [](https://www.raywenderlich.com/166182/mapkit-tutorial-overlay-views)
+T93 [MapKit Tutorial: Overlay Views](https://www.raywenderlich.com/166182/mapkit-tutorial-overlay-views)
 
-T94 [](https://www.raywenderlich.com/155772/make-app-like-runkeeper-part-1-2)
+T94 [How To Make an App Like Runkeeper](https://www.raywenderlich.com/155772/make-app-like-runkeeper-part-1-2)
 
-T95 [](https://www.raywenderlich.com/95014/geofencing-ios-swift)
+T95 [Geofencing Tutorial with Core Location](https://www.raywenderlich.com/95014/geofencing-ios-swift)
 
-T96 [](https://www.raywenderlich.com/136165/core-location-geofencing-tutorial)
+T96 [Geofencing Tutorial with Core Location](https://www.raywenderlich.com/136165/core-location-geofencing-tutorial)
 
-T97 [](https://www.raywenderlich.com/81103/introduction-google-maps-ios-sdk-swift)
+T97 [AWS Pinpoint Tutorial for iOS: Getting Started](https://www.raywenderlich.com/181656/aws-pinpoint-tutorial-ios-getting-started)
 
-T98 [](https://www.raywenderlich.com/179565/google-maps-ios-sdk-tutorial-getting-started)
+T98 [Google Maps iOS SDK Tutorial: Getting Started](https://www.raywenderlich.com/179565/google-maps-ios-sdk-tutorial-getting-started)
 
-T99 [](https://www.raywenderlich.com/76735/using-nsurlprotocol-swift)
+T99 [Using NSURLProtocol with Swift](https://www.raywenderlich.com/76735/using-nsurlprotocol-swift)
 
-T100 [](https://www.raywenderlich.com/158106/urlsession-tutorial-getting-started)
+T100 [URLSession Tutorial: Getting Started](https://www.raywenderlich.com/158106/urlsession-tutorial-getting-started)
 
-T101 [](https://www.raywenderlich.com/188427/alamofire-tutorial-getting-started-3)
+T101 [Alamofire Tutorial: Getting Started](https://www.raywenderlich.com/188427/alamofire-tutorial-getting-started-3)
 
-T102 [](https://www.raywenderlich.com/177597/oauth-2-0-swift-tutorial)
+T102 [OAuth 2.0 with Swift Tutorial](https://www.raywenderlich.com/177597/oauth-2-0-swift-tutorial)
 
-T103 [](https://www.raywenderlich.com/85528/user-accounts-ios-ruby-rails-swift)
+T103 [User Authentication on iOS with Ruby on Rails and Swift](https://www.raywenderlich.com/85528/user-accounts-ios-ruby-rails-swift)
 
-T104 [](https://www.raywenderlich.com/149335/introduction-protocol-buffers-ios)
+T104 [Introduction to Protocol Buffers on iOS](https://www.raywenderlich.com/149335/introduction-protocol-buffers-ios)
 
-T105 [](https://www.raywenderlich.com/157128/real-time-communication-streams-tutorial-ios)
+T105 [Real-Time Communication with Streams Tutorial for iOS](https://www.raywenderlich.com/157128/real-time-communication-streams-tutorial-ios)
 
-T106 [](https://www.raywenderlich.com/143874/websockets-ios-starscream)
+T106 [WebSockets on iOS with Starscream](https://www.raywenderlich.com/143874/websockets-ios-starscream)
 
-T107 [](https://www.raywenderlich.com/172145/encoding-decoding-and-serialization-in-swift-4)
+T107 [Encoding, Decoding and Serialization in Swift 4](https://www.raywenderlich.com/172145/encoding-decoding-and-serialization-in-swift-4)
 
-T108 [](https://www.raywenderlich.com/160049/demand-resources-ios-tutorial)
+T108 [On-Demand Resources in iOS Tutorial](https://www.raywenderlich.com/160049/demand-resources-ios-tutorial)
 
-T109 [](https://www.raywenderlich.com/98831/parse-tutorial-getting-started-web-backends)
+T109 [Parse Tutorial: Getting Started with Web Backends](https://www.raywenderlich.com/98831/parse-tutorial-getting-started-web-backends)
 
-T110 [](https://www.raywenderlich.com/118361/what-is-nuke)
+T110 [What is… Nuke?](https://www.raywenderlich.com/118361/what-is-nuke)
 
-T111 [](https://www.raywenderlich.com/154244/charles-proxy-tutorial-ios)
+T111 [Charles Proxy Tutorial for iOS](https://www.raywenderlich.com/154244/charles-proxy-tutorial-ios)
 
-T112 [](https://www.raywenderlich.com/158433/getting-started-graphql-apollo-ios)
+T112 [Getting started with GraphQL & Apollo on iOS](https://www.raywenderlich.com/158433/getting-started-graphql-apollo-ios)
 
-T113 [](https://www.raywenderlich.com/152330/ibeacon-tutorial-ios-swift)
+T113 [iBeacon Tutorial with iOS and Swift](https://www.raywenderlich.com/152330/ibeacon-tutorial-ios-swift)
 
-T114 [](https://www.raywenderlich.com/174449/core-bluetooth-watchos-tutorial)
+T114 [Core Bluetooth in watchOS Tutorial](https://www.raywenderlich.com/174449/core-bluetooth-watchos-tutorial)
 
-T115 [](https://www.raywenderlich.com/177848/core-bluetooth-tutorial-for-ios-heart-rate-monitor)
+T115 [Core Bluetooth Tutorial for iOS: Heart Rate Monitor](https://www.raywenderlich.com/177848/core-bluetooth-tutorial-for-ios-heart-rate-monitor)
 
-T116 [](https://www.raywenderlich.com/121834/apple-pencil-tutorial)
+T116 [Apple Pencil Tutorial: Getting Started](https://www.raywenderlich.com/121834/apple-pencil-tutorial)
 
-T117 [](https://www.raywenderlich.com/84174/ios-8-handoff-tutorial)
+T117 [Handoff Tutorial: Getting Started](https://www.raywenderlich.com/84174/ios-8-handoff-tutorial)
 
-T118 [](https://www.raywenderlich.com/142058/ios-accessibility-tutorial)
+T118 [iOS Accessibility Tutorial: Getting Started](https://www.raywenderlich.com/142058/ios-accessibility-tutorial)
 
-T119 [](https://www.raywenderlich.com/116608/ios-9-app-search-tutorial-introduction-to-app-search)
+T119 [iOS 9 App Search Tutorial: Introduction to App Search](https://www.raywenderlich.com/116608/ios-9-app-search-tutorial-introduction-to-app-search)
 
-T120 [](https://www.raywenderlich.com/128948/universal-links-make-connection)
+T120 [Universal Links – Make the Connection](https://www.raywenderlich.com/128948/universal-links-make-connection)
 
-T121 [](https://www.raywenderlich.com/115700/ios-9-multitasking-tutorial)
+T121 [iOS 9 Multitasking Tutorial](https://www.raywenderlich.com/115700/ios-9-multitasking-tutorial)
 
-T122 [](https://www.raywenderlich.com/185370/basic-ios-security-keychain-hashing)
+T122 [Basic iOS Security: Keychain and Hashing](https://www.raywenderlich.com/185370/basic-ios-security-keychain-hashing)
 
-T123 [](https://www.raywenderlich.com/179924/secure-ios-user-data-keychain-biometrics-face-id-touch-id)
+T123 [How To Secure iOS User Data: The Keychain and Biometrics – Face ID or Touch ID](https://www.raywenderlich.com/179924/secure-ios-user-data-keychain-biometrics-face-id-touch-id)
 
-T124 [](https://www.raywenderlich.com/179924/secure-ios-user-data-keychain-biometrics-face-id-touch-id)
+T124 [How to Submit An App to Apple: From No Account to App Store ](https://www.raywenderlich.com/184709/submit-app-apple-no-account-app-store-part-1)
 
-T125 [](https://www.raywenderlich.com/179924/secure-ios-user-data-keychain-biometrics-face-id-touch-id)
+T125 [TestFlight Tutorial: iOS Beta Testing](https://www.raywenderlich.com/133121/testflight-tutorial-ios-beta-testing)
 
-T126 [](https://www.raywenderlich.com/90978/secure-passwords-with-safari-autofill-ios-8)
+T126 [How To Secure Your App’s Passwords with Safari AutoFill in iOS 8](https://www.raywenderlich.com/90978/secure-passwords-with-safari-autofill-ios-8)
 
-T127 [](https://www.raywenderlich.com/180180/keyboard-extensions)
+T127 [Custom Keyboard Extensions: Getting Started](https://www.raywenderlich.com/180180/keyboard-extensions)
 
-T128 [](https://www.raywenderlich.com/83809/ios-8-today-extension-tutorial)
+T128 [Origami Studio Tutorial For Mobile Prototyping: Getting Started](https://www.raywenderlich.com/182981/origami-studio-tutorial-for-mobile-prototyping-getting-started)
 
-T129 [](https://www.raywenderlich.com/150953/today-extension-tutorial-getting-started)
+T129 [Today Extension Tutorial: Getting Started](https://www.raywenderlich.com/150953/today-extension-tutorial-getting-started)
 
-T130 [](https://www.raywenderlich.com/131668/document-provider-tutorial)
+T130 [iOS Extensions: Document Provider Tutorial](https://www.raywenderlich.com/131668/document-provider-tutorial)
 
-T131 [](https://www.raywenderlich.com/171045/using-nsincrementalstore-custom-core-data-storage)
+T131 [NSIncrementalStore Tutorial for iOS: Getting Started](https://www.raywenderlich.com/171045/using-nsincrementalstore-custom-core-data-storage)
 
-T132 [](https://www.raywenderlich.com/173972/getting-started-with-core-data-tutorial-2)
+T132 [Getting Started with Core Data Tutorial](https://www.raywenderlich.com/173972/getting-started-with-core-data-tutorial-2)
 
-T133 [](https://www.raywenderlich.com/174025/lightweight-migrations-in-core-data-tutorial)
+T133 [Lightweight Migrations in Core Data Tutorial](https://www.raywenderlich.com/174025/lightweight-migrations-in-core-data-tutorial)
 
-T134 [](https://www.raywenderlich.com/174082/multiple-managed-object-contexts-with-core-data-tutorial)
+T134 [Multiple Managed Object Contexts with Core Data Tutorial](https://www.raywenderlich.com/174082/multiple-managed-object-contexts-with-core-data-tutorial)
 
-T135 [](https://www.raywenderlich.com/167743/sqlite-swift-tutorial-getting-started)
+T135 [SQLite With Swift Tutorial: Getting Started](https://www.raywenderlich.com/167743/sqlite-swift-tutorial-getting-started)
 
-T136 [](https://www.raywenderlich.com/133825/uiactivityviewcontroller-tutorial)
+T136 [UIActivityViewController Tutorial: Sharing Data](https://www.raywenderlich.com/133825/uiactivityviewcontroller-tutorial)
 
-T137 [](https://www.raywenderlich.com/106856/getting-started-magicalrecord)
+T137 [Getting Started with MagicalRecord](https://www.raywenderlich.com/106856/getting-started-magicalrecord)
 
-T138 [](https://www.raywenderlich.com/134694/cloudkit-tutorial-getting-started)
+T138 [CloudKit Tutorial: Getting Started](https://www.raywenderlich.com/134694/cloudkit-tutorial-getting-started)
 
-T139 [](https://www.raywenderlich.com/135551/cloudkit-js-tutorial)
+T139 [CloudKit JS Tutorial for iOS](https://www.raywenderlich.com/135551/cloudkit-js-tutorial)
 
-T140 [](https://www.raywenderlich.com/140836/firebase-tutorial-real-time-chat-2)
+T140 [Firebase Tutorial: Real-time Chat](https://www.raywenderlich.com/140836/firebase-tutorial-real-time-chat-2)
 
-T141 [](https://www.raywenderlich.com/176492/firebase-tutorial-ios-b-testing)
+T141 [Firebase Tutorial: iOS A/B Testing](https://www.raywenderlich.com/176492/firebase-tutorial-ios-b-testing)
 
-T142 [](https://www.raywenderlich.com/187417/firebase-tutorial-getting-started-3)
+T142 [Firebase Tutorial: Getting Started](https://www.raywenderlich.com/187417/firebase-tutorial-getting-started-3)
 
-T143 [](https://www.raywenderlich.com/188230/firebase-remote-config-tutorial-for-ios-2)
+T143 [Firebase Remote Config Tutorial for iOS](https://www.raywenderlich.com/188230/firebase-remote-config-tutorial-for-ios-2)
 
-T144 [](https://www.raywenderlich.com/146736/parse-server-tutorial-ios)
+T144 [Parse Server Tutorial with iOS](https://www.raywenderlich.com/146736/parse-server-tutorial-ios)
 
-T145 [](https://www.raywenderlich.com/156966/push-notifications-tutorial-getting-started)
+T145 [Push Notifications Tutorial: Getting Started](https://www.raywenderlich.com/156966/push-notifications-tutorial-getting-started)
 
-T146 [](https://www.raywenderlich.com/64513/cookbook-making-calendar-reminder)
+T146 [EventKit Tutorial: Making a Calendar Reminder](https://www.raywenderlich.com/64513/cookbook-making-calendar-reminder)
 
-T147 [](https://www.raywenderlich.com/97936/address-book-tutorial-swift-ios)
+T147 [Address Book Tutorial in Swift and iOS](https://www.raywenderlich.com/97936/address-book-tutorial-swift-ios)
 
-T148 [](https://www.raywenderlich.com/124075/javascriptcore-tutorial)
+T148 [JavaScriptCore Tutorial for iOS: Getting Started](https://www.raywenderlich.com/124075/javascriptcore-tutorial)
 
-T149 [](https://www.raywenderlich.com/136010/carekit-tutorial-for-ios-part-1)
+T149 [CareKit Tutorial for iOS](https://www.raywenderlich.com/136010/carekit-tutorial-for-ios-part-1)
 
-T150 [](https://www.raywenderlich.com/117433/accessing-heart-rate-data-researchkit-study)
+T150 [Accessing Heart Rate Data for Your ResearchKit Study](https://www.raywenderlich.com/117433/accessing-heart-rate-data-researchkit-study)
 
-T151 [](https://www.raywenderlich.com/159019/healthkit-tutorial-swift-getting-started)
+T151 [HealthKit Tutorial With Swift: Getting Started](https://www.raywenderlich.com/159019/healthkit-tutorial-swift-getting-started)
 
-T152 [](https://www.raywenderlich.com/162877/healthkit-tutorial-swift-workouts)
+T152 [HealthKit Tutorial with Swift: Workouts](https://www.raywenderlich.com/162877/healthkit-tutorial-swift-workouts)
 
-T153 [](https://www.raywenderlich.com/104575/researchkit-tutorial-with-swift)
+T153 [ResearchKit Tutorial with Swift: Getting Started](https://www.raywenderlich.com/104575/researchkit-tutorial-with-swift)
 
-T154 [](https://www.raywenderlich.com/150015/callkit-tutorial-ios)
+T154 [CallKit Tutorial for iOS](https://www.raywenderlich.com/150015/callkit-tutorial-ios)
 
-T155 [](https://www.raywenderlich.com/155732/sirikit-tutorial-ios)
+T155 [SiriKit Tutorial for iOS](https://www.raywenderlich.com/155732/sirikit-tutorial-ios)
 
-T156 [](https://www.raywenderlich.com/155752/speech-recognition-tutorial-ios)
+T156 [Speech Recognition Tutorial for iOS](https://www.raywenderlich.com/155752/speech-recognition-tutorial-ios)
 
-T157 [](https://www.raywenderlich.com/164213/coreml-and-vision-machine-learning-in-ios-11-tutorial)
+T157 [Core ML and Vision: Machine Learning in iOS 11 Tutorial](https://www.raywenderlich.com/164213/coreml-and-vision-machine-learning-in-ios-11-tutorial)
 
-T158 [](https://www.raywenderlich.com/181760/beginning-machine-learning-keras-core-ml)
+T158 [Beginning Machine Learning with Keras & Core ML](https://www.raywenderlich.com/181760/beginning-machine-learning-keras-core-ml)
 
-T159 [](https://www.raywenderlich.com/190191/ibm-watson-services-for-core-ml-tutorial)
+T159 [IBM Watson Services for Core ML Tutorial](https://www.raywenderlich.com/190191/ibm-watson-services-for-core-ml-tutorial)
 
-T160 [](https://www.raywenderlich.com/164213/coreml-and-vision-machine-learning-in-ios-11-tutorial)
+T160 [Core ML and Vision: Machine Learning in iOS 11 Tutorial](https://www.raywenderlich.com/164213/coreml-and-vision-machine-learning-in-ios-11-tutorial)
 
-T161 [](https://www.raywenderlich.com/185515/natural-language-processing-on-ios-with-turi-create)
+T161 [Natural Language Processing on iOS with Turi Create](https://www.raywenderlich.com/185515/natural-language-processing-on-ios-with-turi-create)
 
-T162 [](https://www.raywenderlich.com/180830/beginning-machine-learning-scikit-learn)
+T162 [Beginning Machine Learning with scikit-learn](https://www.raywenderlich.com/180830/beginning-machine-learning-scikit-learn)
 
-T163 [](https://www.raywenderlich.com/136692/introduction-google-cardboard-ios)
+T163 [Introduction to Google Cardboard for iOS](https://www.raywenderlich.com/136692/introduction-google-cardboard-ios)
 
-T164 [](https://www.raywenderlich.com/87300/apple-pay-tutorial)
+T164 [Apple Pay Tutorial: Getting Started](https://www.raywenderlich.com/87300/apple-pay-tutorial)
 
-T165 [](https://www.raywenderlich.com/122144/in-app-purchase-tutorial)
+T165 [In-App Purchase Tutorial: Getting Started](https://www.raywenderlich.com/122144/in-app-purchase-tutorial)
 
-T166 [](https://www.raywenderlich.com/127423/in-app-purchases-tutorial)
+T166 [In App Purchases Tutorial: Consumables](https://www.raywenderlich.com/127423/in-app-purchases-tutorial)
 
-T167 [](https://www.raywenderlich.com/147629/in-app-purchases-non-renewing-subscriptions-tutorial)
+T167 [In-App Purchases: Non-Renewing Subscriptions Tutorial](https://www.raywenderlich.com/147629/in-app-purchases-non-renewing-subscriptions-tutorial)
 
-T168 [](https://www.raywenderlich.com/154737/app-purchases-auto-renewable-subscriptions-tutorial)
+T168 [In-App Purchases: Auto-Renewable Subscriptions Tutorial](https://www.raywenderlich.com/154737/app-purchases-auto-renewable-subscriptions-tutorial)
 
-T169 [](https://www.raywenderlich.com/179260/accept-credit-cards-ios-apps-using-stripe)
+T169 [Accepting Credit Cards In Your iOS App Using Stripe](https://www.raywenderlich.com/179260/accept-credit-cards-ios-apps-using-stripe)
 
-T170 [](https://www.raywenderlich.com/170177/watchos-4-tutorial-part-1-getting-started)
+T170 [watchOS 4 Tutorial: Getting Started](https://www.raywenderlich.com/170177/watchos-4-tutorial-part-1-getting-started)
 
-T171 [](https://www.raywenderlich.com/174404/audio-recording-in-watchos-tutorial)
+T171 [Audio Recording in watchOS Tutorial](https://www.raywenderlich.com/174404/audio-recording-in-watchos-tutorial)
 
-T172 [](https://www.raywenderlich.com/174449/core-bluetooth-watchos-tutorial)
+T172 [Core Bluetooth in watchOS Tutorial](https://www.raywenderlich.com/174449/core-bluetooth-watchos-tutorial)
 
-T173 [](https://www.raywenderlich.com/148513/grand-central-dispatch-tutorial-swift-3-part-1)
+T173 [Grand Central Dispatch Tutorial for Swift 3](https://www.raywenderlich.com/148513/grand-central-dispatch-tutorial-swift-3-part-1)
 
-T173 [](https://www.raywenderlich.com/143128/background-modes-tutorial-getting-started)
+T173 [Background Modes Tutorial: Getting Started](https://www.raywenderlich.com/143128/background-modes-tutorial-getting-started)
 
-T174 [](https://www.raywenderlich.com/151817/how-to-make-an-app-like-pokemon-go)
+T174 [How To Make An App Like Pokemon Go](https://www.raywenderlich.com/151817/how-to-make-an-app-like-pokemon-go)
 
-T175 [](https://www.raywenderlich.com/98356/view-debugging-in-xcode-6)
+T175 [View Debugging in Xcode 6](https://www.raywenderlich.com/98356/view-debugging-in-xcode-6)
 
-T176 [](https://www.raywenderlich.com/177890/swizzling-in-ios-11-with-uidebugginginformationoverlay)
+T176 [Swizzling in iOS 11 with UIDebuggingInformationOverlay](https://www.raywenderlich.com/177890/swizzling-in-ios-11-with-uidebugginginformationoverlay)
 
-T177 [](https://www.raywenderlich.com/152276/intermediate-debugging-xcode-8)
+T177 [Intermediate Debugging with Xcode 8](https://www.raywenderlich.com/152276/intermediate-debugging-xcode-8)
 
-T178 [](https://www.raywenderlich.com/161938/assembly-register-calling-convention-tutorial)
+T178 [Assembly Register Calling Convention Tutorial](https://www.raywenderlich.com/161938/assembly-register-calling-convention-tutorial)
 
-T179 [](https://www.raywenderlich.com/162020/custom-lldb-commands-practice)
+T179 [Custom LLDB Commands in Practice](https://www.raywenderlich.com/162020/custom-lldb-commands-practice)
 
-T180 [](https://www.raywenderlich.com/166125/instruments-tutorial-swift-getting-started)
+T180 [Instruments Tutorial with Swift: Getting Started](https://www.raywenderlich.com/166125/instruments-tutorial-swift-getting-started)
 
-T181 [](https://www.raywenderlich.com/97174/reveal-tutorial-live-view-debugging)
+T181 [Reveal Tutorial: Live View Debugging](https://www.raywenderlich.com/97174/reveal-tutorial-live-view-debugging)
 
-T182 [](https://www.raywenderlich.com/154244/charles-proxy-tutorial-ios)
+T182 [Google Material Design Tutorial for iOS: Getting Started](https://www.raywenderlich.com/170353/introduction-google-material-design-ios)
 
-T183 [](https://www.raywenderlich.com/150073/ios-unit-testing-and-ui-testing-tutorial)
+T183 [iOS Unit Testing and UI Testing Tutorial](https://www.raywenderlich.com/150073/ios-unit-testing-and-ui-testing-tutorial)
 
-T184 [](https://www.raywenderlich.com/182118/behavior-driven-testing-tutorial-ios-quick-nimble)
+T184 [Behavior-Driven Testing Tutorial for iOS with Quick & Nimble](https://www.raywenderlich.com/182118/behavior-driven-testing-tutorial-ios-quick-nimble)
 
-T185 [](https://www.raywenderlich.com/136168/fastlane-tutorial-getting-started-2)
+T185 [fastlane Tutorial: Getting Started](https://www.raywenderlich.com/136168/fastlane-tutorial-getting-started-2)
 
-T186 [](https://www.raywenderlich.com/109418/travis-ci-tutorial)
+T186 [Travis CI Tutorial: Getting Started](https://www.raywenderlich.com/109418/travis-ci-tutorial)
 
-T187 [](https://www.raywenderlich.com/179717/open-source-collaboration-using-git-and-github)
+T187 [Open-Source Collaboration Using Git and GitHub](https://www.raywenderlich.com/179717/open-source-collaboration-using-git-and-github)
 
-T188 [](https://www.raywenderlich.com/153084/use-git-source-control-xcode-9)
+T188 [How To Use Git Source Control with Xcode 9](https://www.raywenderlich.com/153084/use-git-source-control-xcode-9)
 
-T189 [](https://www.raywenderlich.com/155150/dependency-management-using-git-submodules)
+T189 [Dependency Management Using Git Submodules](https://www.raywenderlich.com/155150/dependency-management-using-git-submodules)
 
-T190 [](https://www.raywenderlich.com/126365/ios-frameworks-tutorial)
+T190 [Creating and Distributing iOS Frameworks](https://www.raywenderlich.com/126365/ios-frameworks-tutorial)
 
-T191 [](https://www.raywenderlich.com/99386/create-cocoapod-swift)
+T191 [How to Create a CocoaPod in Swift](https://www.raywenderlich.com/99386/create-cocoapod-swift)
 
-T192 [](https://www.raywenderlich.com/156971/cocoapods-tutorial-swift-getting-started)
+T192 [CocoaPods Tutorial for Swift: Getting Started](https://www.raywenderlich.com/156971/cocoapods-tutorial-swift-getting-started)
 
-T193 [](https://www.raywenderlich.com/165660/carthage-tutorial-getting-started-2)
+T193 [Carthage Tutorial: Getting Started](https://www.raywenderlich.com/165660/carthage-tutorial-getting-started-2)
 
-T194 [](https://www.raywenderlich.com/155150/dependency-management-using-git-submodules)
+T194 [Using Framer to Prototype iOS Animations](https://www.raywenderlich.com/135380/using-framer-prototype-ios-animations)
 
-T195 [](https://www.raywenderlich.com/182236/swinject-tutorial-for-ios-getting-started)
+T195 [Swinject Tutorial for iOS: Getting Started](https://www.raywenderlich.com/182236/swinject-tutorial-for-ios-getting-started)
 
-T196 [](https://www.raywenderlich.com/89816/porting-app-iphone-6-iphone-6-plus-ios-8-top-10-tips)
+T196 [How to Port Your App to the iPhone 6, iPhone 6 Plus and iOS 8: Top 10 Tips](https://www.raywenderlich.com/89816/porting-app-iphone-6-iphone-6-plus-ios-8-top-10-tips)
 
-T197 [](https://www.raywenderlich.com/82172/rubymotion-tutorial-for-beginners-part-1)
+T197 [RubyMotion Tutorial for Beginners](https://www.raywenderlich.com/82172/rubymotion-tutorial-for-beginners-part-1)
 
-T198 [](https://www.raywenderlich.com/106369/integrating-parse-react-native-ios)
+T198 [Integrating Parse and React Native for iOS](https://www.raywenderlich.com/106369/integrating-parse-react-native-ios)
 
-T199 [](https://www.raywenderlich.com/134049/building-ios-apps-with-xamarin-and-visual-studio)
+T199 [Building iOS Apps with Xamarin and Visual Studio](https://www.raywenderlich.com/134049/building-ios-apps-with-xamarin-and-visual-studio)
 
-T200 [](https://www.raywenderlich.com/136047/react-native-existing-app)
+T200 [React Native Tutorial: Integrating in an Existing App](https://www.raywenderlich.com/136047/react-native-existing-app)
 
-T201 [](https://www.raywenderlich.com/161413/yoga-tutorial-using-cross-platform-layout-engine)
+T201 [Yoga Tutorial: Using a Cross-Platform Layout Engine](https://www.raywenderlich.com/161413/yoga-tutorial-using-cross-platform-layout-engine)
 
-T202 [](https://www.raywenderlich.com/165140/react-native-tutorial-building-ios-android-apps-javascript)
+T202 [https://www.raywenderlich.com/165140/react-native-tutorial-building-ios-android-apps-javascript](https://www.raywenderlich.com/165140/react-native-tutorial-building-ios-android-apps-javascript)
 
-T203 [](https://www.raywenderlich.com/179043/using-spots-framework-for-cross-platform-development)
+T203 [Using Spots Framework for Cross-Platform Development](https://www.raywenderlich.com/179043/using-spots-framework-for-cross-platform-development)
 
-T204 [](https://www.raywenderlich.com/125119/how-to-make-app-mockups-with-appcooker)
+T204 [How to Make App Mockups With AppCooker](https://www.raywenderlich.com/125119/how-to-make-app-mockups-with-appcooker)
 
-T205 [](https://www.raywenderlich.com/135380/using-framer-prototype-ios-animations)
 
-T206 [](https://www.raywenderlich.com/170353/introduction-google-material-design-ios)
 
-T207 [](https://www.raywenderlich.com/182981/origami-studio-tutorial-for-mobile-prototyping-getting-started)
-
-T208 [](https://www.raywenderlich.com/184709/submit-app-apple-no-account-app-store-part-1)
-
-T209 [](https://www.raywenderlich.com/133121/testflight-tutorial-ios-beta-testing)
-
-T210 [](https://www.raywenderlich.com/184709/submit-app-apple-no-account-app-store-part-1)
-
-T211 [](https://www.raywenderlich.com/181656/aws-pinpoint-tutorial-ios-getting-started)
-
-T212 [](https://www.raywenderlich.com/153500/swiftybeaver-tutorial-ios-logging-platform-swiftmq)
 
 
 
