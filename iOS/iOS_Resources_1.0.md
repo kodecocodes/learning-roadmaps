@@ -28,6 +28,12 @@ B12 [2D Apple Games by Tutorials](https://store.raywenderlich.com/products/2d-ap
 
 B13 [Advanced Apple Debugging & Reverse Engineering](https://store.raywenderlich.com/products/advanced-apple-debugging-and-reverse-engineering)
 
+B14 [Metal by Tutorials](https://store.raywenderlich.com/products/metal-by-tutorials)
+
+B15 [3D Apple Games by Tutorials](https://store.raywenderlich.com/products/3d-apple-games-by-tutorials)
+
+B16 [ARKit by Tutorials](https://store.raywenderlich.com/products/arkit-by-tutorials)
+
 ## Video Courses
 
 C1 [Programming in Swift](https://videos.raywenderlich.com/courses/90-programming-in-swift/lessons/1)
@@ -114,7 +120,7 @@ C41 [Beginning watchOS](https://videos.raywenderlich.com/courses/41-beginning-wa
 
 C42 [Beginning Native tvOS Apps](https://videos.raywenderlich.com/courses/44-beginning-native-tvos-apps/lessons/1)
 
-C43 [iOS Concurrency with GCD and Operations](https://videos.raywenderlich.com/courses/44-beginning-native-tvos-apps/lessons/1)
+C43 [iOS Concurrency with GCD and Operations](https://videos.raywenderlich.com/courses/55-ios-concurrency-with-gcd-and-operations/lessons/1)
 
 C45 [How To Make a Game Like Flappy Bird](https://videos.raywenderlich.com/courses/66-how-to-make-a-game-like-flappy-bird/lessons/1)
 
@@ -327,6 +333,8 @@ S95 [Alternate App Icons: Error Handling](https://videos.raywenderlich.com/scree
 
 S96 [Alternate App Icons: Getting Started](https://videos.raywenderlich.com/screencasts/878-alternate-app-icons-getting-started)
 
+S97 [iOS 10: Live Speech Recognition](https://videos.raywenderlich.com/screencasts/456-ios-10-live-speech-recognition)
+
 
 ## Tutorials
 
@@ -508,7 +516,7 @@ T88 [How To Make An App Like Pokemon Go](https://www.raywenderlich.com/151817/ho
 
 T89 [How To Make an App Like Runkeeper](https://www.raywenderlich.com/155772/make-app-like-runkeeper-part-1-2)
 
-T90 [Routing with MapKit and Core Location](https://www.raywenderlich.com/110054/routing-mapkit-core-location)
+T90 [How to Make App Mockups With AppCooker](https://www.raywenderlich.com/125119/how-to-make-app-mockups-with-appcooker)
 
 T91 [Advanced MapKit Tutorial: Custom Tiles](https://www.raywenderlich.com/158175/advanced-mapkit-tutorial-custom-tiles)
 
@@ -516,7 +524,7 @@ T92 [MapKit Tutorial: Getting Started](https://www.raywenderlich.com/160517/mapk
 
 T93 [MapKit Tutorial: Overlay Views](https://www.raywenderlich.com/166182/mapkit-tutorial-overlay-views)
 
-T94 [How To Make an App Like Runkeeper](https://www.raywenderlich.com/155772/make-app-like-runkeeper-part-1-2)
+T94 [Using Spots Framework for Cross-Platform Development](https://www.raywenderlich.com/179043/using-spots-framework-for-cross-platform-development)
 
 T95 [Geofencing Tutorial with Core Location](https://www.raywenderlich.com/95014/geofencing-ios-swift)
 
@@ -546,7 +554,7 @@ T107 [Encoding, Decoding and Serialization in Swift 4](https://www.raywenderlich
 
 T108 [On-Demand Resources in iOS Tutorial](https://www.raywenderlich.com/160049/demand-resources-ios-tutorial)
 
-T109 [Parse Tutorial: Getting Started with Web Backends](https://www.raywenderlich.com/98831/parse-tutorial-getting-started-web-backends)
+T109 [https://www.raywenderlich.com/165140/react-native-tutorial-building-ios-android-apps-javascript](https://www.raywenderlich.com/165140/react-native-tutorial-building-ios-android-apps-javascript)
 
 T110 [What is… Nuke?](https://www.raywenderlich.com/118361/what-is-nuke)
 
@@ -648,7 +656,7 @@ T158 [Beginning Machine Learning with Keras & Core ML](https://www.raywenderlich
 
 T159 [IBM Watson Services for Core ML Tutorial](https://www.raywenderlich.com/190191/ibm-watson-services-for-core-ml-tutorial)
 
-T160 [Core ML and Vision: Machine Learning in iOS 11 Tutorial](https://www.raywenderlich.com/164213/coreml-and-vision-machine-learning-in-ios-11-tutorial)
+T160 [Yoga Tutorial: Using a Cross-Platform Layout Engine](https://www.raywenderlich.com/161413/yoga-tutorial-using-cross-platform-layout-engine)
 
 T161 [Natural Language Processing on iOS with Turi Create](https://www.raywenderlich.com/185515/natural-language-processing-on-ios-with-turi-create)
 
@@ -732,18 +740,11 @@ T199 [Building iOS Apps with Xamarin and Visual Studio](https://www.raywenderlic
 
 T200 [React Native Tutorial: Integrating in an Existing App](https://www.raywenderlich.com/136047/react-native-existing-app)
 
-T201 [Yoga Tutorial: Using a Cross-Platform Layout Engine](https://www.raywenderlich.com/161413/yoga-tutorial-using-cross-platform-layout-engine)
+T201 [Realm Tutorial](https://www.raywenderlich.com/112544/realm-tutorial-getting-started)
 
-T202 [https://www.raywenderlich.com/165140/react-native-tutorial-building-ios-android-apps-javascript](https://www.raywenderlich.com/165140/react-native-tutorial-building-ios-android-apps-javascript)
+T202 [Operation and OperationQueue Tutorial in Swift](https://www.raywenderlich.com/190008/operation-and-operationqueue-tutorial-in-swift)
 
-T203 [Using Spots Framework for Cross-Platform Development](https://www.raywenderlich.com/179043/using-spots-framework-for-cross-platform-development)
-
-T204 [How to Make App Mockups With AppCooker](https://www.raywenderlich.com/125119/how-to-make-app-mockups-with-appcooker)
-
-
-
-
-
+T203 [Building a Portal App in ARKit](https://www.raywenderlich.com/195361/building-a-portal-app-in-arkit-getting-started)
 
 
 
