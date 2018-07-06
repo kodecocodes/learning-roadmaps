@@ -138,6 +138,8 @@ C51 [Beginning App Asset Design](https://videos.raywenderlich.com/courses/85-beg
 
 C52 [Publishing to the App Store](https://videos.raywenderlich.com/courses/71-publishing-to-the-app-store/lessons/1)
 
+C53 [Drawing in iOS](https://videos.raywenderlich.com/courses/133-drawing-in-ios/lessons/1)
+
 
 ## Screencasts
 
@@ -193,7 +195,7 @@ S25 [iOS 11 Drag and Drop with Multiple Data Representations and Custom Views](h
 
 S26 [iOS 10 Collection View Data Prefetching](https://videos.raywenderlich.com/screencasts/490-ios-10-collection-view-data-prefetching)
 
-S27 [Dynamic Type with Custom Fonts](https://videos.raywenderlich.com/screencasts/490-ios-10-collection-view-data-prefetching)
+S27 [Dynamic Type with Custom Fonts](https://videos.raywenderlich.com/screencasts/1771-dynamic-type-with-custom-fonts)
 
 S28 [Dynamic Type](https://videos.raywenderlich.com/screencasts/1770-dynamic-type)
 
@@ -335,6 +337,15 @@ S96 [Alternate App Icons: Getting Started](https://videos.raywenderlich.com/scre
 
 S97 [iOS 10: Live Speech Recognition](https://videos.raywenderlich.com/screencasts/456-ios-10-live-speech-recognition)
 
+S98 [Basic Password Autofill](https://videos.raywenderlich.com/screencasts/1893-basic-password-autofill)
+
+S99 [Reachability in iOS](https://videos.raywenderlich.com/screencasts/1868-reachability-in-ios)
+
+S100 [Alamofire: Routing Requests](https://videos.raywenderlich.com/screencasts/1846-alamofire-routing-requests)
+
+S101 [Alamofire: Uploading Files](https://videos.raywenderlich.com/screencasts/1844-alamofire-uploading-files)
+
+S102 [Dynamic Type: Scaling Sizes](https://videos.raywenderlich.com/screencasts/1809-dynamic-type-scaling-sizes)
 
 ## Tutorials
 
@@ -504,11 +515,11 @@ T82 [AVAudioEngine Tutorial for iOS: Getting Started](https://www.raywenderlich.
 
 T83 [AudioKit Tutorial: Getting Started](https://www.raywenderlich.com/145770/audiokit-tutorial-getting-started)
 
-T84 [Geofencing Tutorial with Core Location](https://www.raywenderlich.com/95014/geofencing-ios-swift)
+T84 [Geofencing Tutorial with Core Location](https://www.raywenderlich.com/136165/core-location-geofencing-tutorial)
 
 T85 [Routing with MapKit and Core Location](https://www.raywenderlich.com/110054/routing-mapkit-core-location)
 
-T86 [Geofencing Tutorial with Core Location](https://www.raywenderlich.com/136165/core-location-geofencing-tutorial)
+T86 [Metal Rendering Pipeline Tutorial](https://www.raywenderlich.com/195167/metal-rendering-pipeline-tutorial)
 
 T87 [Augmented Reality iOS Tutorial: Location Based](https://www.raywenderlich.com/146436/augmented-reality-ios-tutorial-location-based-2)
 
@@ -586,7 +597,7 @@ T123 [How To Secure iOS User Data: The Keychain and Biometrics – Face ID or To
 
 T124 [How to Submit An App to Apple: From No Account to App Store ](https://www.raywenderlich.com/184709/submit-app-apple-no-account-app-store-part-1)
 
-T125 [TestFlight Tutorial: iOS Beta Testing](https://www.raywenderlich.com/133121/testflight-tutorial-ios-beta-testing)
+T125 [TestFlight Tutorial: iOS Beta Testing](https://www.raywenderlich.com/190493/testflight-tutorial-ios-beta-testing-2)
 
 T126 [How To Secure Your App’s Passwords with Safari AutoFill in iOS 8](https://www.raywenderlich.com/90978/secure-passwords-with-safari-autofill-ios-8)
 
@@ -746,23 +757,26 @@ T202 [Operation and OperationQueue Tutorial in Swift](https://www.raywenderlich.
 
 T203 [Building a Portal App in ARKit](https://www.raywenderlich.com/195361/building-a-portal-app-in-arkit-getting-started)
 
+T204 [GLKit Tutorial for iOS: Getting started with OpenGL ES](https://www.raywenderlich.com/192063/glkit-tutorial-for-ios-getting-started-with-opengl-es)
 
+T205 [Video Streaming Tutorial for iOS: Getting Started](https://www.raywenderlich.com/188867/video-streaming-tutorial-for-ios-getting-started)
 
+T206 [https://www.raywenderlich.com/187041/uitableview-infinite-scrolling-tutorial](https://www.raywenderlich.com/187041/uitableview-infinite-scrolling-tutorial)
 
+T207 [How To Make a Custom Control Tutorial: A Reusable Knob](https://www.raywenderlich.com/190768/how-to-make-a-custom-control-tutorial-a-reusable-knob)
 
+T208 [Enum-Driven TableView Development](https://www.raywenderlich.com/188692/enum-driven-tableview-development)
 
+T209 [Create ML Tutorial: Getting Started](https://www.raywenderlich.com/196233/create-ml-tutorial-getting-started)
 
+T210 [Trigonometry for Game Programming – SpriteKit and Swift Tutorial](https://www.raywenderlich.com/188941/trigonometry-for-game-programming-part-1-2)
 
+T211 [Test Driven Development Tutorial for iOS: Getting Started](https://www.raywenderlich.com/185640/test-driven-development-tutorial)
 
+T212 [Building a Portal App in ARKit: Materials and Lighting](https://www.raywenderlich.com/195419/building-a-portal-app-in-arkit-materials-and-lighting)
 
+T213 [Building a Portal App in ARKit: Adding Objects](https://www.raywenderlich.com/195388/building-a-portal-app-in-arkit-adding-objects)
 
+T214 [How to make a RESTful app with Siesta](https://www.raywenderlich.com/182219/make-restful-app-siesta)
 
-
-
-
-
-
-
-
-
-
+T215 [GraphQL Using the Apollo Framework: Getting Started](https://www.raywenderlich.com/184485/graphql-using-the-apollo-framework-getting-started)
